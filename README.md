@@ -4,5 +4,5 @@
 
 ###### *kind reminder :* dont forget the safety glasses in lab cause you will do this disipline next year as well :)
 
-####### I appreciate you for reading this, ty! :)
+### I appreciate you for reading this, ty! :)
 
