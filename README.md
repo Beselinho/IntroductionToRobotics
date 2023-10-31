@@ -18,4 +18,23 @@
   
   Link to video : https://www.youtube.com/watch?v=kqCAvHMge0Y
 
+  # Homework 3
+
+  Task requirement:
+   Design a control system that simulates a 3-floor elevator using the Arduino
+platform. Here are the specific requirements:
+• LED Indicators: Each of the 3 LEDs should represent one of the 3 floors. The LED corresponding to the current floor should light up. Additionally,another LED should represent the elevator’s operational state. It should blink when the elevator is moving and remain static when stationary.
+• Buttons: Implement 3 buttons that represent the call buttons from the 3 floors. When pressed, the elevator should simulate movement towards the floor after a short interval (2-3 seconds).
+• Buzzer: The buzzer should sound briefly during the following scenarios:
+– Elevator arriving at the desired floor (something resembling a ”cling”).
+– Elevator doors closing and movement (pro tip: split them into 2different sounds)
+• State Change & Timers: If the elevator is already at the desired floor, pressing the button for that floor should have no effect. Otherwise, after a button press, the elevator should ”wait for the doors to close” and then ”move” to the corresponding floor. If the elevator is in movement, it should either do nothing or it should stack its decision (get to the first programmed floor, open the doors, wait, close them and then go to the next desired floor).
+• Debounce: Remember to implement debounce for the buttons to avoid unintentional repeated button presses.
+
+![Tema3_photo1](https://github.com/Beselinho/IntroductionToRobotics/assets/116555068/d8792c7a-09bb-463f-85e5-1e81549de18c)
+
+![Tema3_photo2](https://github.com/Beselinho/IntroductionToRobotics/assets/116555068/4e5b5f6f-5f66-4e97-b8e9-ce903728b340)
+
+Link to video : https://www.youtube.com/shorts/DgNwwjv3wQo
+
 
