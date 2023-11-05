@@ -38,3 +38,16 @@ platform. Here are the specific requirements:
 Link to video : https://www.youtube.com/shorts/DgNwwjv3wQo
 
 
+   # Homework 4
+
+Task requierment :
+So, I have a 7 segment-digit display and using a joystick I need to go to from each LED to one of its neighbours. I know which LED I'm standing on because it always blinks. Also I can color it kinda, that means whenever I press the joystick's button the LED should remain on after I leave it, otherwise if the button is not pressed should stay off after I leave it. Aaaand if I don't like my drawing, I can always reset it by holding down the joystick's button for at least 3 second.
+
+
+ ![Homework_4_photo1](https://github.com/Beselinho/IntroductionToRobotics/assets/116555068/b80df66a-6197-4a1b-acf8-8e70cc7e7552)
+ ![Homework_4_photo2](https://github.com/Beselinho/IntroductionToRobotics/assets/116555068/0c001ae1-6320-401d-9dfd-a39883abd2ec)
+
+ Link to video : https://www.youtube.com/watch?v=bFHH3CS5jDM
+ 
+
+
