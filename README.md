@@ -11,11 +11,12 @@
  Task requierment :
   Use a separate potentiometer for controlling each color of the RGB LED: Red, Green, and Blue. This control must leverage digital electronics. Specifically, you need to read the potentiometer’s value with Arduino and then write a mapped value to the LED pins
   
-  ![Tema2_poza1](https://github.com/Beselinho/IntroductionToRobotics/assets/116555068/7f217cf9-5b60-4031-8cd1-a6ef086889bd)
   
-  ![Tema2_poza2](https://github.com/Beselinho/IntroductionToRobotics/assets/116555068/8bbebcd6-762a-4967-b5c2-3d24ea20cb12)
+  
+  ![Homework_2_photo1](https://github.com/Beselinho/IntroductionToRobotics/assets/116555068/13cc3301-af4f-4a97-ae76-369c1ac0bed0)
 
-  
+  ![Homework_2_photo2](https://github.com/Beselinho/IntroductionToRobotics/assets/116555068/56a0a474-8a60-4d24-a760-d0195585844c)
+
   Link to video : https://www.youtube.com/watch?v=kqCAvHMge0Y
 
   # Homework 3
@@ -45,6 +46,7 @@ So, I have a 7 segment-digit display and using a joystick I need to go to from e
 
 
  ![Homework_4_photo1](https://github.com/Beselinho/IntroductionToRobotics/assets/116555068/b80df66a-6197-4a1b-acf8-8e70cc7e7552)
+ 
  ![Homework_4_photo2](https://github.com/Beselinho/IntroductionToRobotics/assets/116555068/0c001ae1-6320-401d-9dfd-a39883abd2ec)
 
  Link to video : https://www.youtube.com/watch?v=bFHH3CS5jDM
