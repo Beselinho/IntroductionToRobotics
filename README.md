@@ -11,11 +11,9 @@
  Task requierment :
   Use a separate potentiometer for controlling each color of the RGB LED: Red, Green, and Blue. This control must leverage digital electronics. Specifically, you need to read the potentiometer’s value with Arduino and then write a mapped value to the LED pins
   
-  
-  
-  ![Homework_2_photo1](https://github.com/Beselinho/IntroductionToRobotics/assets/116555068/13cc3301-af4f-4a97-ae76-369c1ac0bed0)
+  ![Homework_2_photo1](https://github.com/Beselinho/IntroductionToRobotics/assets/116555068/62e0ce26-9ae7-4e4b-b1ca-2e21eea0fc28)
 
-  ![Homework_2_photo2](https://github.com/Beselinho/IntroductionToRobotics/assets/116555068/56a0a474-8a60-4d24-a760-d0195585844c)
+  ![Homework_2_photo2](https://github.com/Beselinho/IntroductionToRobotics/assets/116555068/f9a9c7fd-0de2-42aa-8e76-66120847c108)
 
   Link to video : https://www.youtube.com/watch?v=kqCAvHMge0Y
 
@@ -32,9 +30,10 @@ platform. Here are the specific requirements:
 • State Change & Timers: If the elevator is already at the desired floor, pressing the button for that floor should have no effect. Otherwise, after a button press, the elevator should ”wait for the doors to close” and then ”move” to the corresponding floor. If the elevator is in movement, it should either do nothing or it should stack its decision (get to the first programmed floor, open the doors, wait, close them and then go to the next desired floor).
 • Debounce: Remember to implement debounce for the buttons to avoid unintentional repeated button presses.
 
-![Tema3_photo1](https://github.com/Beselinho/IntroductionToRobotics/assets/116555068/d8792c7a-09bb-463f-85e5-1e81549de18c)
+![Homework_3_photo1](https://github.com/Beselinho/IntroductionToRobotics/assets/116555068/9fc66e14-5da5-4508-afb5-6f618e3e7087)
 
-![Tema3_photo2](https://github.com/Beselinho/IntroductionToRobotics/assets/116555068/4e5b5f6f-5f66-4e97-b8e9-ce903728b340)
+![Homework_3_photo2](https://github.com/Beselinho/IntroductionToRobotics/assets/116555068/d09ffc33-9a88-44da-ac07-941f41c64cf5)
+
 
 Link to video : https://www.youtube.com/shorts/DgNwwjv3wQo
 
