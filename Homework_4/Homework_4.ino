@@ -99,28 +99,28 @@ int convertIntoRightPin(int ledPin) {
   int value;
   switch (ledPin) {
     case 0:
-      value = 12;  //A
+      value = pinA;  //A
       break;
     case 1:
-      value = 10;  //B
+      value = pinB;  //B
       break;
     case 2:
-      value = 9;  //C
+      value = pinC;  //C
       break;
     case 3:
-      value = 8;  //D
+      value = pinD;  //D
       break;
     case 4:
-      value = 7;  //E
+      value = pinE;  //E
       break;
     case 5:
-      value = 6;  //F
+      value = pinF;  //F
       break;
     case 6:
-      value = 5;  //G
+      value = pinG;  //G
       break;
     case 7:
-      value = 4;  //DP
+      value = pinDP;  //DP
       break;
     default:
       value = -1;
@@ -139,6 +139,7 @@ void setup() {
   positionInMatrix = 7;  // 7 = dp, you start from dp
   //Serial.begin(9600);
 
+
   attachInterrupt(digitalPinToInterrupt(pinSW), handleInterrupt, FALLING);
 }
 
@@ -153,10 +154,12 @@ void loop() {
   if (defaultState == true) {
     for (int i = 0; i < segSize; i++) {
       digitalWrite(segments[i], LOW);
+      brightSegments[i] = LOW;
     }
     currentLedPin = pinDP;
     positionInMatrix = 7;
     defaultState = false;
+
   }
 
   if (possiblePress) {
@@ -178,7 +181,7 @@ void loop() {
           defaultState = true;
           wasPressed = false;
         } else {
-          brightSegments[positionInMatrix] = 1;  //if it was a short press that means you want the led to remain high
+          brightSegments[positionInMatrix] = HIGH;  //if it was a short press that means you want the led to remain high
           wasPressed = false;
         }
       }
