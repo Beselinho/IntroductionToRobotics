@@ -51,9 +51,9 @@ So, I have a 7 segment-digit display and using a joystick I need to go to from e
  Link to video : https://www.youtube.com/watch?v=bFHH3CS5jDM
 
 
- #Homework 5
+ # Homework 5
 Task requierment:
-THis time, I have a 4 digits 7 segment display and I need to simulate with this a normal stopwatch. I have 3 button : one that starts the counter and pauses it, one for reseting it only when is in pause mode, and one for saving laps, working only when the timer works. Pretty much thats but mine's is still a work in progress, unfortunately :)
+This time, I have a 4 digits 7 segment display and I need to simulate with this a normal stopwatch. I have 3 button : one that starts the counter and pauses it, one for reseting it only when is in pause mode, and one for saving laps, working only when the timer works. Pretty much thats but mine's is still a work in progress, unfortunately :(
 
 ![Homework_5_photo1](https://github.com/Beselinho/IntroductionToRobotics/assets/116555068/1c048c6f-834d-4f64-82ad-f15b9fdbcf5b)
 
