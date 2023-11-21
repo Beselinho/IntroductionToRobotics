@@ -61,3 +61,18 @@ This time, I have a 4 digits 7 segment display and I need to simulate with this 
 
 Link to video : https://www.youtube.com/watch?v=_H275hR1yv4
 
+# Homework 6
+Task requierment :
+This task is more software based. Pretty much I need to do a menu from which I can get environmental data using some sensors(ultrasonic sensor and photocell). So I need to have a main menu from which I can go to a 
+ 1) Sensor settings menu in which I can set custom settings for my sensors
+ 2) Reset data menu, it's in the name what is does :)
+ 3) System status menu, in which i can see the data that the sensors collect
+ 4) RGB control menu, in which I can manually set a RGB Led or put it to function automatically
+
+P.S my thing here does like 30% of what it should do :(
+
+![Homework_6_photo1](https://github.com/Beselinho/IntroductionToRobotics/assets/116555068/e79519af-78b0-4914-93e9-9f04b3c32542)
+
+![Homework_6_photo2](https://github.com/Beselinho/IntroductionToRobotics/assets/116555068/705a28ce-c81a-46c3-b34c-13875302431b)
+
+Link to video : https://www.youtube.com/watch?v=f61MNrD8TEI
