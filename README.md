@@ -63,7 +63,7 @@ Link to video : https://www.youtube.com/watch?v=_H275hR1yv4
 
 # Homework 6
 Task requierment :
-This task is more software based. Pretty much I need to do a menu from which I can get environmental data using some sensors(ultrasonic sensor and photocell). So I need to have a main menu from which I can go to a 
+This task is more software based. Pretty much I need to do a menu from which I can get environmental data using some sensors (ultrasonic sensor and photocell). So I need to have a main menu from which I can go to :
  1) Sensor settings menu in which I can set custom settings for my sensors
  2) Reset data menu, it's in the name what is does :)
  3) System status menu, in which i can see the data that the sensors collect
