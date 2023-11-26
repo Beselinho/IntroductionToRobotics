@@ -81,8 +81,10 @@ Link to video : https://www.youtube.com/watch?v=f61MNrD8TEI
 # Matrix Game
 Task requierment : I need to make a game on 8x8 led matrix. So far, I kept it simple and make a bomberman-ish. You have a random terrain, generated whenever you restart the game, made of walls (leds that are always high), the player that can move on any square he wants if that square it's not a wall (the player is a led that blinks slow) and the player can also put down bombs to explode the walls (the bomb is a led that blinks really fast). Once the bombs have been placed, they explode after 3 second in a 3x3 radius destroying any walls inside and also can kill the player if he's bad and doesn't run away. I also made a custom, for fun, bad ending screen.
 
-![MatrixGame_photo1](https://github.com/Beselinho/IntroductionToRobotics/assets/116555068/c2486a3d-435d-4513-ac15-e98f482aebb3)
+![MatrixGame_photo1](https://github.com/Beselinho/IntroductionToRobotics/assets/116555068/4765a016-e218-4387-9425-91e708297863)
 
-![MatrixGame_photo2](https://github.com/Beselinho/IntroductionToRobotics/assets/116555068/aad070dc-9869-4682-8619-b021e93e3820)
+![MatrixGame_photo2](https://github.com/Beselinho/IntroductionToRobotics/assets/116555068/e60a4132-8ee4-4cd1-b53e-dfd0d589464f)
+
+
 
 Link to video : (it will come soon)
