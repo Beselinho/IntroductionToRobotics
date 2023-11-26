@@ -64,7 +64,7 @@ Link to video : https://www.youtube.com/watch?v=_H275hR1yv4
 # Homework 6
 Task requierment :
 This task is more software based. Pretty much I need to do a menu from which I can get environmental data using some sensors (ultrasonic sensor and photocell). So I need to have a main menu from which I can go to :
- 1) Sensor settings menu in which I can set custom settings for my sensors
+ 1) Sensor settings menu, in which I can set custom settings for my sensors
  2) Reset data menu, it's in the name what is does :)
  3) System status menu, in which i can see the data that the sensors collect
  4) RGB control menu, in which I can manually set a RGB Led or put it to function automatically
@@ -76,3 +76,13 @@ P.S my thing here does like 30% of what it should do :(
 ![Homework_6_photo2](https://github.com/Beselinho/IntroductionToRobotics/assets/116555068/705a28ce-c81a-46c3-b34c-13875302431b)
 
 Link to video : https://www.youtube.com/watch?v=f61MNrD8TEI
+
+
+# Matrix Game
+Task requierment : I need to make a game on 8x8 led matrix. So far, I kept it simple and make a bomberman-ish. You have a random terrain, generated whenever you restart the game, made of walls (leds that are always high), the player that can move on any square he wants if that square it's not a wall (the player is a led that blinks slow) and the player can also put down bombs to explode the walls (the bomb is a led that blinks really fast). Once the bombs have been placed, they explode after 3 second in a 3x3 radius destroying any walls inside and also can kill the player if he's bad and doesn't run away. I also made a custom, for fun, bad ending screen.
+
+![MatrixGame_photo1](https://github.com/Beselinho/IntroductionToRobotics/assets/116555068/c2486a3d-435d-4513-ac15-e98f482aebb3)
+
+![MatrixGame_photo2](https://github.com/Beselinho/IntroductionToRobotics/assets/116555068/aad070dc-9869-4682-8619-b021e93e3820)
+
+Link to video : (it will come soon)
