@@ -87,4 +87,4 @@ Task requierment : I need to make a game on 8x8 led matrix. So far, I kept it si
 
 
 
-Link to video : (it will come soon)
+Link to video : https://www.youtube.com/watch?v=RRiTiVwz-GU
