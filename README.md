@@ -85,6 +85,17 @@ Task requierment : I need to make a game on 8x8 led matrix. So far, I kept it si
 
 ![MatrixGame_photo2](https://github.com/Beselinho/IntroductionToRobotics/assets/116555068/e60a4132-8ee4-4cd1-b53e-dfd0d589464f)
 
-
-
 Link to video : https://www.youtube.com/watch?v=RRiTiVwz-GU
+
+
+
+# Game Checkpoint
+Task requierment : The games moves on and I needed to make a nice menu for the game that displays for the player on a LCD. So I have a nice intro message when you start the game up, and then a menu where u can choose from starting the game, goint to settings and a small about tab. In settings there isn't much yet but I did 2 settings for the LCD Brightness and for the LEDs from the matrix brightness. To adjust it you just need to move the joystick left or right to lower or higher it.
+
+![matrixGameCheckpoint_photo2](https://github.com/Beselinho/IntroductionToRobotics/assets/116555068/2a597c27-d801-4525-969a-a55397a133d7)
+
+![matrixGameCheckpoint_photo1](https://github.com/Beselinho/IntroductionToRobotics/assets/116555068/65c99a0a-3f77-4957-9497-10662136f00d)
+
+Link to video : (coming soon)
+
+
