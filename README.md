@@ -96,6 +96,6 @@ Task requierment : The games moves on and I needed to make a nice menu for the g
 
 ![matrixGameCheckpoint_photo1](https://github.com/Beselinho/IntroductionToRobotics/assets/116555068/65c99a0a-3f77-4957-9497-10662136f00d)
 
-Link to video : (coming soon)
+Link to video : https://www.youtube.com/watch?v=81823921dbs
 
 
